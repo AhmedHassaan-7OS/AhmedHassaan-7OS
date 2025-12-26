@@ -1,16 +1,24 @@
-## Hi there 👋
+# Ahmed Hassaan 👋
 
-<!--
-**AhmedHassaan-7OS/AhmedHassaan-7OS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Computer Science student at **Faculty of Computers & Information – Mansoura University**  
+📱 Mobile Developer (Flutter) | 💻 Software Engineer  
 
-Here are some ideas to get you started:
+## About Me
+- Flutter & Firebase developer  
+- Experience with Figma  
+- Interested in building practical and scalable apps  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- **Languages:** Dart, C#, Python  
+- **Frameworks:** Flutter 
+- **Tools:** Firebase,Supa Base ,sqflite ,Hive ,bloc ,GoogleMaps ,permission handler , Git, Figma  
+
+## Projects
+- sopify (eshop app)
+- realtime currency convertor 
+- Firechat (Flutter + Firebase)
+- Qipla (Flutter + Firebase)
+- Educational & utility mobile apps
+
+📫 **GitHub:** [AhmedHassaan-7OS](https://github.com/AhmedHassaan-7OS)
+
