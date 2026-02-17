@@ -13,12 +13,11 @@
 - **Frameworks:** Flutter 
 - **Tools:** Firebase,Supa Base ,sqflite ,Hive ,bloc ,GoogleMaps ,permission handler , Git, Figma  
 
-## Projects
-- sopify (eshop app)
-- realtime currency convertor 
-- Firechat (Flutter + Firebase)
-- Qipla (Flutter + Firebase)
-- Educational & utility mobile apps
+## Featured Projects
+- **[Motion AI](https://github.com/AhmedHassaan-7OS/motion-ai)** → Flutter + Supabase + Google ML Kit (OCR + Face Detection)
+- **[EcoInspect](https://github.com/AhmedHassaan-7OS/ecoinspect)** → Full industrial sustainability app (Supabase + Bloc + multi-module)
+- **[Money Follow](https://github.com/AhmedHassaan-7OS/money_follow)** → Smart expense tracker (SQLite + AI categorization + multi-lang + tests)
+- **[Ketabk](https://github.com/AhmedHassaan-7OS/ketabk)** → Google Books browser (Clean Architecture + Bloc + Dio)
 
 📫 **GitHub:** [AhmedHassaan-7OS](https://github.com/AhmedHassaan-7OS)
 
